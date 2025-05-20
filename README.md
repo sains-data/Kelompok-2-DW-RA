@@ -5,7 +5,9 @@
 Repositori ini berisi laporan tugas kelompok **Data Warehouse** untuk studi kasus di industri **perbankan (GermanTrust Bank)**. Tugas dibagi dalam dua misi yang saling berkaitan, dimulai dari analisis kebutuhan hingga perancangan skema konseptual multidimensi.
 
 ---
-
+## Arsitektur Data
+Arsitektur data untuk proyek ini mengikuti lapisan Medallion Architecture Bronze , Silver , dan Gold :
+<img src="https://github.com/user-attachments/assets/e08acdfe-a162-45c3-9ed8-05cb12225c18" alt="description of image">
 ## 🎯 Tujuan
 
 ### Misi 1
