@@ -1,0 +1,21 @@
+asset_id,asset_name,asset_code,asset_type,valuation,acquisition_date,depreciation_rate,residual_value,useful_life,branch_id,asset_status
+1,Asset 1,AST001,Investment,62862.47,2016-12-31,0.0157,2822.47,7,2,Active
+2,Asset 2,AST002,Investment,97984.22,2017-12-31,0.0176,1770.14,6,18,Active
+3,Asset 3,AST003,Loan,51825.68,2018-12-31,0.0553,2448.19,5,3,Disposed
+4,Asset 4,AST004,Investment,94153.05,2019-12-31,0.0665,1375.74,9,4,Active
+5,Asset 5,AST005,Cash,80585.44,2020-12-31,0.075,2679.77,6,4,Active
+6,Asset 6,AST006,Cash,58246.6,2021-12-31,0.042,1377.74,6,10,Active
+7,Asset 7,AST007,Investment,43736.09,2022-12-31,0.0524,2793.27,6,14,Active
+8,Asset 8,AST008,Loan,10347.49,2023-12-31,0.0652,3333.73,7,14,Active
+9,Asset 9,AST009,Investment,87876.18,2024-12-31,0.0599,3633.13,8,11,Active
+10,Asset 10,AST010,Loan,27249.86,2025-12-31,0.0125,3256.9,5,5,Disposed
+11,Asset 11,AST011,Cash,95651.82,2026-12-31,0.0409,4586.62,6,7,Disposed
+12,Asset 12,AST012,Investment,31436.16,2027-12-31,0.0831,2476.79,7,2,Active
+13,Asset 13,AST013,Cash,46029.43,2028-12-31,0.0474,4822.29,4,5,Active
+14,Asset 14,AST014,Loan,32706.19,2029-12-31,0.038,1774.8,5,12,Active
+15,Asset 15,AST015,Cash,19951.55,2030-12-31,0.0286,1310.8,6,11,Disposed
+16,Asset 16,AST016,Investment,59453.2,2031-12-31,0.0758,2824.9,5,8,Active
+17,Asset 17,AST017,Cash,94996.95,2032-12-31,0.0953,1011.44,7,17,Active
+18,Asset 18,AST018,Investment,60258.97,2033-12-31,0.0183,2678.73,9,20,Disposed
+19,Asset 19,AST019,Investment,46698.2,2034-12-31,0.0242,4267.16,7,9,Disposed
+20,Asset 20,AST020,Loan,73100.81,2035-12-31,0.0582,2038.22,3,6,Disposed

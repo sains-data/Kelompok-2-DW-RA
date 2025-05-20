@@ -1,0 +1,21 @@
+customer_segment_id,segment_name,segment_description,avg_income_range,avg_age_range,preferred_channel,risk_profile,loyalty_level,profitability_score,acquisition_channel,retention_rate
+1,Segment 1,Description 1,5-10M,18-25,Online,Low,Platinum,2.49,Referral,0.83
+2,Segment 2,Description 2,>10M,26-35,Branch,High,Silver,7.37,Online,0.97
+3,Segment 3,Description 3,5-10M,26-35,Mobile,Medium,Platinum,4.44,Branch,0.84
+4,Segment 4,Description 4,<5M,26-35,Branch,Low,Silver,5.71,Referral,0.73
+5,Segment 5,Description 5,5-10M,18-25,Online,Low,Platinum,3.26,Branch,0.8
+6,Segment 6,Description 6,5-10M,26-35,Branch,Medium,Silver,9.78,Branch,0.8
+7,Segment 7,Description 7,5-10M,26-35,Branch,Medium,Gold,4.22,Online,0.53
+8,Segment 8,Description 8,5-10M,36-50,Branch,Low,Gold,6.44,Referral,0.56
+9,Segment 9,Description 9,5-10M,26-35,Mobile,Low,Gold,4.77,Branch,0.59
+10,Segment 10,Description 10,5-10M,26-35,Branch,Low,Platinum,1.78,Online,0.8
+11,Segment 11,Description 11,>10M,26-35,Mobile,Medium,Silver,6.65,Branch,0.6
+12,Segment 12,Description 12,>10M,18-25,Online,Low,Gold,4.91,Online,0.72
+13,Segment 13,Description 13,>10M,36-50,Online,Low,Gold,4.87,Online,0.59
+14,Segment 14,Description 14,<5M,36-50,Mobile,Low,Platinum,6.42,Online,0.99
+15,Segment 15,Description 15,<5M,36-50,Branch,Low,Platinum,5.83,Branch,0.6
+16,Segment 16,Description 16,>10M,26-35,Online,Low,Silver,3.23,Branch,0.57
+17,Segment 17,Description 17,5-10M,26-35,Online,Low,Silver,4.84,Online,0.56
+18,Segment 18,Description 18,<5M,26-35,Mobile,High,Silver,7.84,Online,0.58
+19,Segment 19,Description 19,>10M,18-25,Branch,Medium,Gold,3.89,Online,0.98
+20,Segment 20,Description 20,<5M,26-35,Branch,High,Gold,3.84,Branch,0.75

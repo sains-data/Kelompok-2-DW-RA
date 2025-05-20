@@ -1,0 +1,21 @@
+product_id,product_name,product_code,product_category,product_subcategory,product_type,interest_rate,fee_structure,min_balance,is_active,launch_date,department_id,risk_level,currency
+1,Product 1,PRD001,Credit Card,Premium,Individual,1.31,None,851.77,True,2018-12-31,12,High,EUR
+2,Product 2,PRD002,Loan,Standard,Individual,1.79,None,229.5,False,2019-12-31,11,High,EUR
+3,Product 3,PRD003,Loan,Premium,Individual,9.31,None,427.45,True,2020-12-31,15,High,EUR
+4,Product 4,PRD004,Credit Card,Standard,Individual,8.5,None,739.51,True,2021-12-31,12,High,USD
+5,Product 5,PRD005,Savings,Standard,Individual,9.84,None,126.7,True,2022-12-31,17,High,EUR
+6,Product 6,PRD006,Loan,Premium,Corporate,8.46,None,892.17,False,2023-12-31,1,Medium,USD
+7,Product 7,PRD007,Loan,Standard,Corporate,5.82,None,746.74,True,2024-12-31,2,Low,EUR
+8,Product 8,PRD008,Loan,Premium,Corporate,9.55,None,506.91,True,2025-12-31,12,High,USD
+9,Product 9,PRD009,Loan,Standard,Individual,1.73,None,687.09,False,2026-12-31,7,Low,IDR
+10,Product 10,PRD010,Credit Card,Premium,Individual,9.36,None,275.05,True,2027-12-31,7,Low,IDR
+11,Product 11,PRD011,Savings,Premium,Corporate,3.0,None,735.89,False,2028-12-31,5,Low,USD
+12,Product 12,PRD012,Loan,Standard,Corporate,6.38,None,814.32,False,2029-12-31,6,Low,IDR
+13,Product 13,PRD013,Credit Card,Standard,Corporate,2.22,None,743.83,False,2030-12-31,10,Low,EUR
+14,Product 14,PRD014,Loan,Premium,Corporate,3.58,None,387.8,False,2031-12-31,20,Low,EUR
+15,Product 15,PRD015,Loan,Premium,Individual,2.66,None,336.57,False,2032-12-31,18,Low,IDR
+16,Product 16,PRD016,Credit Card,Standard,Individual,3.06,None,155.94,True,2033-12-31,10,Medium,IDR
+17,Product 17,PRD017,Savings,Premium,Individual,8.28,None,354.52,False,2034-12-31,5,High,IDR
+18,Product 18,PRD018,Savings,Standard,Individual,6.36,None,564.49,True,2035-12-31,16,High,EUR
+19,Product 19,PRD019,Savings,Standard,Individual,4.48,None,67.53,False,2036-12-31,19,Medium,IDR
+20,Product 20,PRD020,Loan,Standard,Corporate,9.25,None,340.78,True,2037-12-31,1,Low,IDR

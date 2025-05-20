@@ -1,0 +1,21 @@
+branch_id,branch_name,branch_code,location_city,location_region,branch_type,opening_date,is_active,manager_id,num_employees,branch_performance_rating
+1,Branch 1,BR001,Jakarta,East,Urban,2005-12-31,False,9,13,A
+2,Branch 2,BR002,Jakarta,Central,Rural,2006-12-31,False,13,22,A
+3,Branch 3,BR003,Medan,West,Urban,2007-12-31,True,6,28,B
+4,Branch 4,BR004,Surabaya,Central,Urban,2008-12-31,False,9,36,A
+5,Branch 5,BR005,Bandung,East,Rural,2009-12-31,True,4,44,B
+6,Branch 6,BR006,Surabaya,East,Rural,2010-12-31,False,17,47,C
+7,Branch 7,BR007,Jakarta,Central,Urban,2011-12-31,True,12,49,B
+8,Branch 8,BR008,Jakarta,West,Urban,2012-12-31,True,11,17,C
+9,Branch 9,BR009,Medan,East,Rural,2013-12-31,True,2,46,B
+10,Branch 10,BR010,Medan,West,Rural,2014-12-31,False,15,40,B
+11,Branch 11,BR011,Surabaya,East,Urban,2015-12-31,False,15,47,A
+12,Branch 12,BR012,Medan,Central,Urban,2016-12-31,False,9,41,A
+13,Branch 13,BR013,Medan,Central,Urban,2017-12-31,True,1,37,C
+14,Branch 14,BR014,Jakarta,East,Urban,2018-12-31,False,13,5,B
+15,Branch 15,BR015,Jakarta,West,Urban,2019-12-31,True,12,9,C
+16,Branch 16,BR016,Jakarta,East,Urban,2020-12-31,True,19,49,A
+17,Branch 17,BR017,Jakarta,East,Rural,2021-12-31,True,15,48,B
+18,Branch 18,BR018,Medan,East,Urban,2022-12-31,False,6,33,C
+19,Branch 19,BR019,Bandung,Central,Urban,2023-12-31,True,13,45,C
+20,Branch 20,BR020,Bandung,East,Urban,2024-12-31,True,12,34,C

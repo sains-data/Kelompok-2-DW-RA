@@ -1,0 +1,21 @@
+employee_id,employee_name,employee_code,position,department_id,hire_date,manager_id,is_manager,employment_status,education_level,salary_band,performance_rating
+1,Employee 1,EMP001,Executive,2,2015-12-31,,True,Active,PhD,C,Low
+2,Employee 2,EMP002,Analyst,16,2016-12-31,5.0,False,Active,Bachelor,B,Low
+3,Employee 3,EMP003,Manager,1,2017-12-31,7.0,True,Inactive,Bachelor,C,High
+4,Employee 4,EMP004,Manager,10,2018-12-31,10.0,True,Active,PhD,B,High
+5,Employee 5,EMP005,Analyst,15,2019-12-31,18.0,False,Inactive,PhD,B,Medium
+6,Employee 6,EMP006,Analyst,5,2020-12-31,13.0,False,Active,Master,C,Low
+7,Employee 7,EMP007,Analyst,9,2021-12-31,5.0,False,Inactive,Master,A,Medium
+8,Employee 8,EMP008,Manager,4,2022-12-31,15.0,True,Inactive,Bachelor,A,Low
+9,Employee 9,EMP009,Manager,14,2023-12-31,7.0,True,Active,PhD,C,Medium
+10,Employee 10,EMP010,Manager,5,2024-12-31,7.0,True,Inactive,Master,A,High
+11,Employee 11,EMP011,Manager,9,2025-12-31,13.0,True,Inactive,Bachelor,C,High
+12,Employee 12,EMP012,Analyst,18,2026-12-31,5.0,True,Active,Master,A,Medium
+13,Employee 13,EMP013,Executive,18,2027-12-31,6.0,True,Active,Master,C,Medium
+14,Employee 14,EMP014,Executive,17,2028-12-31,14.0,True,Inactive,Bachelor,A,High
+15,Employee 15,EMP015,Analyst,17,2029-12-31,4.0,False,Active,Master,B,High
+16,Employee 16,EMP016,Manager,15,2030-12-31,13.0,True,Inactive,Bachelor,C,Low
+17,Employee 17,EMP017,Analyst,19,2031-12-31,17.0,False,Active,Bachelor,A,High
+18,Employee 18,EMP018,Analyst,9,2032-12-31,5.0,True,Inactive,Master,B,Medium
+19,Employee 19,EMP019,Analyst,7,2033-12-31,1.0,True,Active,PhD,C,High
+20,Employee 20,EMP020,Executive,5,2034-12-31,5.0,False,Active,Master,A,Low

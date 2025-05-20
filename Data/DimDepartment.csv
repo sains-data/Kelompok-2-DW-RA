@@ -1,0 +1,21 @@
+department_id,department_name,department_code,division,budget_allocation,head_count,manager_id,establishment_date,functional_area
+1,Department 1,DEP001,HR,715678.81,34,3,2010-12-31,Operations
+2,Department 2,DEP002,HR,425359.52,34,17,2011-12-31,Support
+3,Department 3,DEP003,HR,960285.99,18,17,2012-12-31,Operations
+4,Department 4,DEP004,Sales,417118.73,11,7,2013-12-31,Strategy
+5,Department 5,DEP005,Finance,886623.77,15,3,2014-12-31,Support
+6,Department 6,DEP006,Sales,483123.81,19,16,2015-12-31,Operations
+7,Department 7,DEP007,IT,937944.11,31,16,2016-12-31,Support
+8,Department 8,DEP008,Sales,276709.09,14,9,2017-12-31,Operations
+9,Department 9,DEP009,Sales,103410.62,21,9,2018-12-31,Strategy
+10,Department 10,DEP010,Sales,746120.09,19,7,2019-12-31,Operations
+11,Department 11,DEP011,Sales,889940.75,47,2,2020-12-31,Support
+12,Department 12,DEP012,Finance,654676.37,46,14,2021-12-31,Strategy
+13,Department 13,DEP013,IT,738164.88,7,18,2022-12-31,Support
+14,Department 14,DEP014,IT,288233.55,23,10,2023-12-31,Operations
+15,Department 15,DEP015,IT,966419.35,33,14,2024-12-31,Support
+16,Department 16,DEP016,HR,474825.21,9,6,2025-12-31,Support
+17,Department 17,DEP017,Sales,130406.27,7,17,2026-12-31,Support
+18,Department 18,DEP018,Finance,567144.87,25,20,2027-12-31,Support
+19,Department 19,DEP019,Sales,932544.39,24,9,2028-12-31,Operations
+20,Department 20,DEP020,IT,330791.39,16,6,2029-12-31,Strategy
