@@ -63,6 +63,3 @@ Repositori ini berisi laporan tugas kelompok **Data Warehouse** untuk studi kasu
 ```
 
 ---
-
-## 📌 Catatan
-Dokumentasi ini dibuat untuk memenuhi tugas **Mata Kuliah Data Warehouse Manajemen Informasi Strategis (DW-MISI2)** di **Institut Teknologi Sumatera**.
