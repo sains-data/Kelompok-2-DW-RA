@@ -6,8 +6,14 @@ Repositori ini berisi laporan tugas kelompok **Data Warehouse** untuk studi kasu
 
 ---
 ## Arsitektur Data
-Arsitektur data untuk proyek ini mengikuti lapisan Medallion Architecture Bronze , Silver , dan Gold :
+Arsitektur data untuk proyek ini mengikuti pendekatan bertingkat yang terdiri dari lapisan Sistem Sumber, Staging Area, Core DW, dan Presentation Layer :
 <img src="https://github.com/user-attachments/assets/e08acdfe-a162-45c3-9ed8-05cb12225c18" alt="description of image">
+1. Lapisan Sistem Sumber: Menyimpan data mentah dari sistem sumber seperti CRM, Core Banking, dan SDM.
+2. Lapisan Staging Area: Proses pembersihan dan transformasi data untuk menyiapkan data yang terstruktur.
+3. Lapisan Core DW: Data yang telah diproses dan dimodelkan dalam skema bintang untuk analitik dan pelaporan.
+4. Lapisan Presentation Layer: Menyajikan data siap bisnis melalui views, laporan, dan dashboard untuk pengambilan keputusan.
+
+---
 ## 🎯 Tujuan
 
 ### Misi 1
