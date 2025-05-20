@@ -49,7 +49,8 @@ Meningkatkan profitabilitas sebesar 15% dalam 3 tahun melalui sistem **Data Ware
 ---
 
 ## 3. Fakta dan Dimensi
-https://github.com/user-attachments/assets/0400a3a0-fe0b-4797-8046-ee8effa33adb
+<img src="https://github.com/user-attachments/assets/0400a3a0-fe0b-4797-8046-ee8effa33adb" alt="description of image">
+
 
 **Skema:** Bintang  
 **Tabel Fakta:** `FactFinancialPerformance`  
