@@ -25,17 +25,27 @@ Data warehouse mengintegrasikan data dari berbagai sumber sistem operasional:
 
 ### Metode Ekstraksi
 ```sql
--- Contoh ekstraksi data transaksi harian
+-- Contoh ekstraksi data transaksi harian (dokumentasi ETL - sistem sumber)
+-- NOTE: Query ini adalah contoh untuk dokumentasi proses ETL
+-- Data aktual sudah di-transform dan di-load ke data warehouse
+
+-- Query untuk melihat hasil data yang sudah di-load:
 SELECT 
-    transaction_id,
-    transaction_date,
-    branch_code,
-    product_code,
-    customer_segment,
-    amount,
-    transaction_type
-FROM operational.daily_transactions
-WHERE transaction_date BETWEEN '2023-01-01' AND '2024-12-31';
+    f.performance_id,
+    dt.full_date as transaction_date,
+    b.branch_code,
+    p.product_code,
+    cs.segment_name as customer_segment,
+    f.revenue as amount,
+    'FINANCIAL_PERFORMANCE' as transaction_type
+FROM FactFinancialPerformance f
+JOIN DimTime dt ON f.date_id = dt.date_id
+JOIN DimBranch b ON f.branch_id = b.branch_id
+JOIN DimProduct p ON f.product_id = p.product_id
+JOIN DimCustomerSegment cs ON f.customer_segment_id = cs.segment_id
+WHERE dt.full_date BETWEEN '2023-01-01' AND '2024-12-31'
+ORDER BY dt.full_date DESC
+LIMIT 10;
 ```
 
 ## 2. Tahap Transform (Transformasi)
