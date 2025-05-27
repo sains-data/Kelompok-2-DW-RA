@@ -220,11 +220,12 @@ docker ps
 **Semester**: 6 - Tahun 2025
 
 ### Anggota Tim
-1. [Nama Anggota 1] [NIM]
-2. [Nama Anggota 2] [NIM]
-3. [Nama Anggota 3] [NIM]
-4. [Nama Anggota 4] [NIM]
-5. [Nama Anggota 5] [NIM]
+1. Gymnastiar Al Khoarizmy 122450096
+2. Ahmad Zidan Wirawan 120450044 
+3. Raditia Riandi 121450105 
+4. Dwi Ratna Anggraeni 122450008 
+5. Ahmad Sahidin Akbar 122450044
+6. Nabila Zakiyah Zahra 122450139 
 
 ### Pembagian Tugas
 - **Analysis & Design (Misi 1-3)**: Anggota 1, 2
