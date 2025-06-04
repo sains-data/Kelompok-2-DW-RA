@@ -228,7 +228,7 @@ docker ps
 6. Nabila Zakiyah Zahra 122450139 
 
 ### Pembagian Tugas
-- **Analysis & Design (Misi 1-3)**: Anggota 1, 2
+- **Analysis & Design (Misi 1-3)**: Anggota 1, 6
 - **Database Implementation**: Anggota 2, 3
 - **ETL Development**: Anggota 3, 4
 - **Query & Analytics**: Anggota 4, 5
